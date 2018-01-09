@@ -1,0 +1,20 @@
+img {
+    border-radius: 50%;
+}
+img {
+    border: 1px solid blue;
+    padding: 5px;
+    width: 150px;
+}
+img:hover {
+    box-shadow: 0 0 2px 1px purple;
+}
+h1{
+  box-shadow: none;
+  border: none;
+}
+img{
+  margin-bottom: 40px;
+  margin-top: 20px;
+  margin-left: 30px
+}
